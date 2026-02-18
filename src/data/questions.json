@@ -1,0 +1,802 @@
+[
+  {
+    "id": 1,
+    "category": "Minor Characters",
+    "question": "What is the name of Neville Longbottom's great-uncle who dropped him out of a window to test if he had magic?",
+    "answer": "Great Uncle Algie",
+    "acceptedAnswers": ["Algie", "Uncle Algie"],
+    "source": "Mentioned by Neville in Philosopher's Stone, Chapter 7 — 'The Sorting Hat'"
+  },
+  {
+    "id": 2,
+    "category": "Minor Characters",
+    "question": "What is the name of the Muggle Studies professor who is killed at the start of Deathly Hallows?",
+    "answer": "Charity Burbage",
+    "acceptedAnswers": ["Burbage", "Professor Burbage"],
+    "source": "Deathly Hallows, Chapter 1 — 'The Dark Lord Ascending'"
+  },
+  {
+    "id": 3,
+    "category": "Minor Characters",
+    "question": "What is the name of Aragog's wife?",
+    "answer": "Mosag",
+    "acceptedAnswers": [],
+    "source": "Chamber of Secrets, Chapter 15 — 'Aragog'"
+  },
+  {
+    "id": 4,
+    "category": "Minor Characters",
+    "question": "What is the first name of Mr. Borgin, co-owner of Borgin and Burkes?",
+    "answer": "Caractacus",
+    "acceptedAnswers": ["Caractacus Borgin"],
+    "source": "Referenced in Chamber of Secrets and Half-Blood Prince"
+  },
+  {
+    "id": 5,
+    "category": "Minor Characters",
+    "question": "What is the name of the house-elf who works in the Hogwarts kitchens and loves butterbeer?",
+    "answer": "Winky",
+    "acceptedAnswers": [],
+    "source": "Goblet of Fire, Chapter 21 — 'The House-Elf Liberation Front'"
+  },
+  {
+    "id": 6,
+    "category": "Minor Characters",
+    "question": "What is the name of Hagrid's mother, the giantess?",
+    "answer": "Fridwulfa",
+    "acceptedAnswers": [],
+    "source": "Goblet of Fire, Chapter 24 — 'Rita Skeeter's Scoop'"
+  },
+  {
+    "id": 7,
+    "category": "Minor Characters",
+    "question": "What is the name of the conductor of the Knight Bus?",
+    "answer": "Stan Shunpike",
+    "acceptedAnswers": ["Stan", "Shunpike"],
+    "source": "Prisoner of Azkaban, Chapter 3 — 'The Knight Bus'"
+  },
+  {
+    "id": 8,
+    "category": "Minor Characters",
+    "question": "What is the name of the driver of the Knight Bus?",
+    "answer": "Ernie Prang",
+    "acceptedAnswers": ["Prang"],
+    "source": "Prisoner of Azkaban, Chapter 3 — 'The Knight Bus'"
+  },
+  {
+    "id": 9,
+    "category": "Prices & Numbers",
+    "question": "How many staircases are there at Hogwarts?",
+    "answer": "142",
+    "acceptedAnswers": [],
+    "source": "Philosopher's Stone, Chapter 8 — 'The Potions Master'"
+  },
+  {
+    "id": 10,
+    "category": "Prices & Numbers",
+    "question": "How much does a wand cost at Ollivanders?",
+    "answer": "7 Galleons",
+    "acceptedAnswers": ["seven galleons", "7"],
+    "source": "Philosopher's Stone, Chapter 5 — 'Diagon Alley'"
+  },
+  {
+    "id": 11,
+    "category": "Prices & Numbers",
+    "question": "How many Knuts are in a Sickle?",
+    "answer": "29",
+    "acceptedAnswers": ["twenty-nine", "twenty nine"],
+    "source": "Philosopher's Stone, Chapter 5 — 'Diagon Alley'"
+  },
+  {
+    "id": 12,
+    "category": "Prices & Numbers",
+    "question": "What is the number of Harry's vault at Gringotts?",
+    "answer": "687",
+    "acceptedAnswers": ["vault 687"],
+    "source": "Philosopher's Stone, Chapter 5 — 'Diagon Alley'"
+  },
+  {
+    "id": 13,
+    "category": "Prices & Numbers",
+    "question": "What is the vault number that contained the Philosopher's Stone at Gringotts?",
+    "answer": "713",
+    "acceptedAnswers": ["vault 713"],
+    "source": "Philosopher's Stone, Chapter 5 — 'Diagon Alley'"
+  },
+  {
+    "id": 14,
+    "category": "Prices & Numbers",
+    "question": "How many possible Quidditch fouls are there?",
+    "answer": "700",
+    "acceptedAnswers": ["seven hundred"],
+    "source": "Mentioned in Quidditch Through the Ages and referenced in Goblet of Fire"
+  },
+  {
+    "id": 15,
+    "category": "Prices & Numbers",
+    "question": "What number is the Dursleys' house on Privet Drive?",
+    "answer": "4",
+    "acceptedAnswers": ["four", "number 4", "no. 4"],
+    "source": "Philosopher's Stone, Chapter 1 — 'The Boy Who Lived'"
+  },
+  {
+    "id": 16,
+    "category": "Obscure Spells & Potions",
+    "question": "What spell does Hermione use to waterproof Harry's glasses during a rainy Quidditch match?",
+    "answer": "Impervius",
+    "acceptedAnswers": [],
+    "source": "Prisoner of Azkaban, Chapter 9 — 'Grim Defeat'"
+  },
+  {
+    "id": 17,
+    "category": "Obscure Spells & Potions",
+    "question": "What is the incantation for the Leg-Locker Curse?",
+    "answer": "Locomotor Mortis",
+    "acceptedAnswers": [],
+    "source": "Philosopher's Stone, Chapter 13 — 'Nicolas Flamel'"
+  },
+  {
+    "id": 18,
+    "category": "Obscure Spells & Potions",
+    "question": "What spell does Gilderoy Lockhart accidentally use on himself, removing his own memory?",
+    "answer": "Obliviate",
+    "acceptedAnswers": [],
+    "source": "Chamber of Secrets, Chapter 16 — 'The Chamber of Secrets'"
+  },
+  {
+    "id": 19,
+    "category": "Obscure Spells & Potions",
+    "question": "What is the incantation for the spell that creates a flock of birds?",
+    "answer": "Avis",
+    "acceptedAnswers": [],
+    "source": "Goblet of Fire, Chapter 18 — used by Mr. Ollivander to test Viktor Krum's wand"
+  },
+  {
+    "id": 20,
+    "category": "Obscure Spells & Potions",
+    "question": "What potion does Professor Slughorn show his sixth-year class that smells differently to each person?",
+    "answer": "Amortentia",
+    "acceptedAnswers": [],
+    "source": "Half-Blood Prince, Chapter 9 — 'The Half-Blood Prince'"
+  },
+  {
+    "id": 21,
+    "category": "Obscure Spells & Potions",
+    "question": "In Snape's first ever Potions class, he asks Harry what you get when you add powdered root of asphodel to an infusion of wormwood. What is the answer?",
+    "answer": "Draught of Living Death",
+    "acceptedAnswers": ["the Draught of Living Death", "Draught of the Living Death"],
+    "source": "Philosopher's Stone, Chapter 8 — 'The Potions Master'"
+  },
+  {
+    "id": 22,
+    "category": "Obscure Spells & Potions",
+    "question": "What spell did Harry use against Draco Malfoy that caused severe slashing wounds?",
+    "answer": "Sectumsempra",
+    "acceptedAnswers": [],
+    "source": "Half-Blood Prince, Chapter 24 — 'Sectumsempra'"
+  },
+  {
+    "id": 23,
+    "category": "Throwaway Details",
+    "question": "What flavor ice cream did Hagrid buy Harry at the zoo?",
+    "answer": "Chocolate and lemon",
+    "acceptedAnswers": ["lemon and chocolate"],
+    "source": "Philosopher's Stone, Chapter 2 — 'The Vanishing Glass'"
+  },
+  {
+    "id": 24,
+    "category": "Throwaway Details",
+    "question": "What item did Dumbledore tell Harry he saw when he looked in the Mirror of Erised?",
+    "answer": "Socks",
+    "acceptedAnswers": ["a pair of socks", "woollen socks", "thick woollen socks", "thick socks", "wool socks"],
+    "source": "Philosopher's Stone, Chapter 12 — 'The Mirror of Erised'"
+  },
+  {
+    "id": 25,
+    "category": "Throwaway Details",
+    "question": "What is the password to Dumbledore's office when Harry visits in Chamber of Secrets?",
+    "answer": "Sherbet Lemon",
+    "acceptedAnswers": ["sherbet lemon"],
+    "source": "Chamber of Secrets, Chapter 11 — 'The Duelling Club'"
+  },
+  {
+    "id": 26,
+    "category": "Throwaway Details",
+    "question": "During the Second Wizarding War, all the hands on Mrs. Weasley's unusual clock point to the same location. Which one?",
+    "answer": "Mortal Peril",
+    "acceptedAnswers": ["mortal peril", "mortal danger"],
+    "source": "Half-Blood Prince, Chapter 5 — all hands point to 'Mortal Peril'"
+  },
+  {
+    "id": 27,
+    "category": "Throwaway Details",
+    "question": "What is the name of the village near the Burrow where the Weasleys live?",
+    "answer": "Ottery St Catchpole",
+    "acceptedAnswers": ["Ottery St. Catchpole", "Ottery Saint Catchpole"],
+    "source": "Chamber of Secrets, Chapter 3 — 'The Burrow'"
+  },
+  {
+    "id": 28,
+    "category": "Throwaway Details",
+    "question": "What type of dragon does Hagrid win in a card game at the Hog's Head?",
+    "answer": "Norwegian Ridgeback",
+    "acceptedAnswers": ["Ridgeback"],
+    "source": "Philosopher's Stone, Chapter 14 — 'Norbert the Norwegian Ridgeback'"
+  },
+  {
+    "id": 29,
+    "category": "Throwaway Details",
+    "question": "What does Hagrid name the Norwegian Ridgeback dragon he hatches?",
+    "answer": "Norbert",
+    "acceptedAnswers": ["Norberta"],
+    "source": "Philosopher's Stone, Chapter 14 (later revealed to be female and renamed Norberta in Deathly Hallows)"
+  },
+  {
+    "id": 30,
+    "category": "Throwaway Details",
+    "question": "What is the name of the Hogwarts poltergeist?",
+    "answer": "Peeves",
+    "acceptedAnswers": [],
+    "source": "Appears throughout the series, first in Philosopher's Stone"
+  },
+  {
+    "id": 31,
+    "category": "Throwaway Details",
+    "question": "What is Dumbledore's middle name that comes between 'Percival' and 'Brian'?",
+    "answer": "Wulfric",
+    "acceptedAnswers": [],
+    "source": "Philosopher's Stone, Chapter 1 — his full name is Albus Percival Wulfric Brian Dumbledore"
+  },
+  {
+    "id": 32,
+    "category": "Textbooks & Authors",
+    "question": "Who wrote 'A History of Magic'?",
+    "answer": "Bathilda Bagshot",
+    "acceptedAnswers": ["Bagshot", "Bathilda"],
+    "source": "Philosopher's Stone, Chapter 5 — mentioned in the Hogwarts book list"
+  },
+  {
+    "id": 33,
+    "category": "Textbooks & Authors",
+    "question": "Who wrote 'Fantastic Beasts and Where to Find Them'?",
+    "answer": "Newt Scamander",
+    "acceptedAnswers": ["Scamander", "Newt"],
+    "source": "Philosopher's Stone, Chapter 5 — Hogwarts book list"
+  },
+  {
+    "id": 34,
+    "category": "Textbooks & Authors",
+    "question": "Who wrote 'Magical Drafts and Potions'?",
+    "answer": "Arsenius Jigger",
+    "acceptedAnswers": ["Jigger", "Arsenius"],
+    "source": "Philosopher's Stone, Chapter 5 — Hogwarts book list"
+  },
+  {
+    "id": 35,
+    "category": "Textbooks & Authors",
+    "question": "Who wrote 'One Thousand Magical Herbs and Fungi'?",
+    "answer": "Phyllida Spore",
+    "acceptedAnswers": ["Spore", "Phyllida"],
+    "source": "Philosopher's Stone, Chapter 5 — Hogwarts book list"
+  },
+  {
+    "id": 36,
+    "category": "Textbooks & Authors",
+    "question": "Who wrote 'A Beginner's Guide to Transfiguration'?",
+    "answer": "Emeric Switch",
+    "acceptedAnswers": ["Switch", "Emeric"],
+    "source": "Philosopher's Stone, Chapter 5 — Hogwarts book list"
+  },
+  {
+    "id": 37,
+    "category": "Textbooks & Authors",
+    "question": "Who wrote 'The Standard Book of Spells' series?",
+    "answer": "Miranda Goshawk",
+    "acceptedAnswers": ["Goshawk", "Miranda"],
+    "source": "Philosopher's Stone, Chapter 5 — Hogwarts book list"
+  },
+  {
+    "id": 38,
+    "category": "Magical Objects & Creatures",
+    "question": "What is the core of Harry Potter's wand?",
+    "answer": "Phoenix feather",
+    "acceptedAnswers": ["phoenix", "a phoenix feather", "phoenix tail feather"],
+    "source": "Philosopher's Stone, Chapter 5 — 'Diagon Alley'"
+  },
+  {
+    "id": 39,
+    "category": "Magical Objects & Creatures",
+    "question": "What wood is Harry Potter's wand made from?",
+    "answer": "Holly",
+    "acceptedAnswers": [],
+    "source": "Philosopher's Stone, Chapter 5 — 'Diagon Alley'"
+  },
+  {
+    "id": 40,
+    "category": "Magical Objects & Creatures",
+    "question": "What creature is the knocker on the Ravenclaw common room door shaped as?",
+    "answer": "Eagle",
+    "acceptedAnswers": ["an eagle"],
+    "source": "Deathly Hallows, Chapter 29 — 'The Lost Diadem'"
+  },
+  {
+    "id": 41,
+    "category": "Magical Objects & Creatures",
+    "question": "Thestrals are only visible to people who have witnessed what?",
+    "answer": "Death",
+    "acceptedAnswers": ["someone dying", "someone die", "a death"],
+    "source": "Order of the Phoenix, Chapter 21 — 'The Eye of the Snake'"
+  },
+  {
+    "id": 42,
+    "category": "Magical Objects & Creatures",
+    "question": "What is the name of Filch's cat?",
+    "answer": "Mrs Norris",
+    "acceptedAnswers": ["Mrs. Norris"],
+    "source": "Philosopher's Stone, Chapter 8"
+  },
+  {
+    "id": 43,
+    "category": "Minor Characters",
+    "question": "What is the name of the Beauxbatons headmistress?",
+    "answer": "Madame Maxime",
+    "acceptedAnswers": ["Maxime", "Olympe Maxime", "Madam Maxime"],
+    "source": "Goblet of Fire, Chapter 15 — 'Beauxbatons and Durmstrang'"
+  },
+  {
+    "id": 44,
+    "category": "Minor Characters",
+    "question": "What is the name of the Durmstrang headmaster who was a former Death Eater?",
+    "answer": "Igor Karkaroff",
+    "acceptedAnswers": ["Karkaroff", "Igor"],
+    "source": "Goblet of Fire, Chapter 15 — 'Beauxbatons and Durmstrang'"
+  },
+  {
+    "id": 45,
+    "category": "Minor Characters",
+    "question": "What is the name of the centaur who replaces Professor Trelawney as Divination teacher?",
+    "answer": "Firenze",
+    "acceptedAnswers": [],
+    "source": "Order of the Phoenix, Chapter 27 — 'The Centaur and the Sneak'"
+  },
+  {
+    "id": 46,
+    "category": "Throwaway Details",
+    "question": "What form does Hermione's Patronus take?",
+    "answer": "Otter",
+    "acceptedAnswers": ["an otter"],
+    "source": "Order of the Phoenix, Chapter 27"
+  },
+  {
+    "id": 47,
+    "category": "Throwaway Details",
+    "question": "What form does Ron's Patronus take?",
+    "answer": "Jack Russell terrier",
+    "acceptedAnswers": ["Jack Russell", "terrier", "a Jack Russell terrier", "Jack Russell Terrier"],
+    "source": "Order of the Phoenix, mentioned during DA meetings"
+  },
+  {
+    "id": 48,
+    "category": "Prices & Numbers",
+    "question": "How many Sickles are in a Galleon?",
+    "answer": "17",
+    "acceptedAnswers": ["seventeen"],
+    "source": "Philosopher's Stone, Chapter 5 — told to Harry by Hagrid"
+  },
+  {
+    "id": 49,
+    "category": "Throwaway Details",
+    "question": "Visitors to the Ministry of Magic enter through what Muggle object on a London street?",
+    "answer": "Telephone box",
+    "acceptedAnswers": ["phone box", "phone booth", "telephone booth", "a telephone box", "red telephone box"],
+    "source": "Order of the Phoenix, Chapter 7 — 'The Ministry of Magic'"
+  },
+  {
+    "id": 50,
+    "category": "Obscure Spells & Potions",
+    "question": "What is the incantation for the Disarming Charm?",
+    "answer": "Expelliarmus",
+    "acceptedAnswers": [],
+    "source": "Chamber of Secrets, Chapter 11 — learned at the Duelling Club"
+  },
+  {
+    "id": 51,
+    "category": "Minor Characters",
+    "question": "What is the name of the ghost who haunts the first-floor girls' bathroom?",
+    "answer": "Moaning Myrtle",
+    "acceptedAnswers": ["Myrtle", "Myrtle Warren"],
+    "source": "Chamber of Secrets, Chapter 8 — 'The Deathday Party'"
+  },
+  {
+    "id": 52,
+    "category": "Throwaway Details",
+    "question": "What did Dumbledore leave Ron in his will?",
+    "answer": "Deluminator",
+    "acceptedAnswers": ["the Deluminator", "Put-Outer", "the Put-Outer", "his Deluminator"],
+    "source": "Deathly Hallows, Chapter 7 — 'The Will of Albus Dumbledore'"
+  },
+  {
+    "id": 53,
+    "category": "Throwaway Details",
+    "question": "What did Dumbledore leave Hermione in his will?",
+    "answer": "The Tales of Beedle the Bard",
+    "acceptedAnswers": ["Tales of Beedle the Bard", "Beedle the Bard"],
+    "source": "Deathly Hallows, Chapter 7 — 'The Will of Albus Dumbledore'"
+  },
+  {
+    "id": 54,
+    "category": "Magical Objects & Creatures",
+    "question": "What is the name of the magical letter that screams its message at the recipient before destroying itself?",
+    "answer": "Howler",
+    "acceptedAnswers": ["a Howler"],
+    "source": "Chamber of Secrets, Chapter 6 — Ron receives one from Mrs. Weasley"
+  },
+  {
+    "id": 55,
+    "category": "Throwaway Details",
+    "question": "What title does Percy Weasley hold at the Ministry when he turns against his family in Order of the Phoenix?",
+    "answer": "Junior Assistant to the Minister",
+    "acceptedAnswers": ["Junior Assistant to the Minister for Magic", "Junior Assistant"],
+    "source": "Order of the Phoenix — Percy becomes Fudge's Junior Assistant"
+  },
+  {
+    "id": 56,
+    "category": "Minor Characters",
+    "question": "What is the real name of the Grey Lady, the Ravenclaw house ghost?",
+    "answer": "Helena Ravenclaw",
+    "acceptedAnswers": ["Helena"],
+    "source": "Deathly Hallows, Chapter 31 — 'The Battle of Hogwarts'"
+  },
+  {
+    "id": 57,
+    "category": "Throwaway Details",
+    "question": "What type of dragon does Harry face in the first task of the Triwizard Tournament?",
+    "answer": "Hungarian Horntail",
+    "acceptedAnswers": ["Horntail"],
+    "source": "Goblet of Fire, Chapter 20 — 'The First Task'"
+  },
+  {
+    "id": 58,
+    "category": "Throwaway Details",
+    "question": "What subject does Professor Vector teach at Hogwarts?",
+    "answer": "Arithmancy",
+    "acceptedAnswers": [],
+    "source": "Referenced throughout the series, particularly Prisoner of Azkaban"
+  },
+  {
+    "id": 59,
+    "category": "Minor Characters",
+    "question": "What is the name of Tonks's mother, who is Sirius Black's cousin?",
+    "answer": "Andromeda",
+    "acceptedAnswers": ["Andromeda Tonks", "Andromeda Black"],
+    "source": "Order of the Phoenix, Chapter 6 — referenced in the Black family tree"
+  },
+  {
+    "id": 60,
+    "category": "Throwaway Details",
+    "question": "What is the name of the magical map that shows every person's location in Hogwarts?",
+    "answer": "The Marauder's Map",
+    "acceptedAnswers": ["Marauder's Map", "Marauders Map", "the Marauders Map"],
+    "source": "Prisoner of Azkaban, Chapter 10 — 'The Marauder's Map'"
+  },
+  {
+    "id": 61,
+    "category": "Prices & Numbers",
+    "question": "What top speed can the Firebolt broomstick reach in ten seconds?",
+    "answer": "150 mph",
+    "acceptedAnswers": ["150", "150 miles per hour"],
+    "source": "Prisoner of Azkaban, Chapter 4 — from the broomstick advertisement"
+  },
+  {
+    "id": 62,
+    "category": "Textbooks & Authors",
+    "question": "Who wrote 'Quidditch Through the Ages'?",
+    "answer": "Kennilworthy Whisp",
+    "acceptedAnswers": ["Whisp", "Kennilworthy"],
+    "source": "Referenced in Philosopher's Stone; published as a real companion book"
+  },
+  {
+    "id": 63,
+    "category": "Obscure Spells & Potions",
+    "question": "What spell does Hermione try on Tom Riddle's diary to reveal hidden writing?",
+    "answer": "Aparecium",
+    "acceptedAnswers": [],
+    "source": "Chamber of Secrets, Chapter 13 — Hermione tries it on Tom Riddle's diary"
+  },
+  {
+    "id": 64,
+    "category": "Minor Characters",
+    "question": "What is the name of the Weasley family's elderly owl?",
+    "answer": "Errol",
+    "acceptedAnswers": [],
+    "source": "Chamber of Secrets, Chapter 4 — the elderly, unreliable owl"
+  },
+  {
+    "id": 65,
+    "category": "Minor Characters",
+    "question": "What is the name of Percy Weasley's owl?",
+    "answer": "Hermes",
+    "acceptedAnswers": [],
+    "source": "Chamber of Secrets — Percy receives Hermes as a reward for becoming a prefect"
+  },
+  {
+    "id": 66,
+    "category": "Throwaway Details",
+    "question": "What does the acronym S.P.E.W. stand for?",
+    "answer": "Society for the Promotion of Elfish Welfare",
+    "acceptedAnswers": [],
+    "source": "Goblet of Fire, Chapter 14 — 'The Unforgivable Curses'"
+  },
+  {
+    "id": 67,
+    "category": "Throwaway Details",
+    "question": "What do Fred and George Weasley name their joke shop?",
+    "answer": "Weasleys' Wizard Wheezes",
+    "acceptedAnswers": ["Weasley's Wizard Wheezes", "Wizard Wheezes", "Weasleys Wizard Wheezes"],
+    "source": "Half-Blood Prince, Chapter 6 — 'Draco's Detour'"
+  },
+  {
+    "id": 68,
+    "category": "Obscure Spells & Potions",
+    "question": "What is the incantation for the spell used to repel a Boggart?",
+    "answer": "Riddikulus",
+    "acceptedAnswers": ["Ridikulus"],
+    "source": "Prisoner of Azkaban, Chapter 7 — 'The Boggart in the Wardrobe'"
+  },
+  {
+    "id": 69,
+    "category": "Throwaway Details",
+    "question": "What does the Hogwarts motto 'Draco Dormiens Nunquam Titillandus' translate to?",
+    "answer": "Never tickle a sleeping dragon",
+    "acceptedAnswers": [],
+    "source": "Philosopher's Stone — the Hogwarts coat of arms"
+  },
+  {
+    "id": 70,
+    "category": "Minor Characters",
+    "question": "What is the name of Dumbledore's brother who runs the Hog's Head pub?",
+    "answer": "Aberforth",
+    "acceptedAnswers": ["Aberforth Dumbledore"],
+    "source": "Order of the Phoenix and Deathly Hallows — he runs the Hog's Head pub"
+  },
+  {
+    "id": 71,
+    "category": "Obscure Spells & Potions",
+    "question": "What incantation is used to conjure the Dark Mark?",
+    "answer": "Morsmordre",
+    "acceptedAnswers": [],
+    "source": "Goblet of Fire, Chapter 9 — 'The Dark Mark'"
+  },
+  {
+    "id": 72,
+    "category": "Magical Objects & Creatures",
+    "question": "What is the name of the three-headed dog guarding the trapdoor in Philosopher's Stone?",
+    "answer": "Fluffy",
+    "acceptedAnswers": [],
+    "source": "Philosopher's Stone, Chapter 9 — 'The Midnight Duel'"
+  },
+  {
+    "id": 73,
+    "category": "Throwaway Details",
+    "question": "Who does Harry see standing beside him when he first looks into the Mirror of Erised?",
+    "answer": "His parents",
+    "acceptedAnswers": ["his family", "his mother and father", "Lily and James", "James and Lily", "his mum and dad", "his mom and dad", "parents"],
+    "source": "Philosopher's Stone, Chapter 12 — 'The Mirror of Erised'"
+  },
+  {
+    "id": 74,
+    "category": "Minor Characters",
+    "question": "What is the name of Voldemort's mother?",
+    "answer": "Merope Gaunt",
+    "acceptedAnswers": ["Merope"],
+    "source": "Half-Blood Prince, Chapter 10 — 'The House of Gaunt'"
+  },
+  {
+    "id": 75,
+    "category": "Minor Characters",
+    "question": "What is the name of Tom Riddle's maternal grandfather?",
+    "answer": "Marvolo Gaunt",
+    "acceptedAnswers": ["Marvolo"],
+    "source": "Half-Blood Prince, Chapter 10 — 'The House of Gaunt'"
+  },
+  {
+    "id": 76,
+    "category": "Throwaway Details",
+    "question": "What phrase do you say to activate the Marauder's Map?",
+    "answer": "I solemnly swear that I am up to no good",
+    "acceptedAnswers": ["I solemnly swear I am up to no good"],
+    "source": "Prisoner of Azkaban, Chapter 10 — 'The Marauder's Map'"
+  },
+  {
+    "id": 77,
+    "category": "Throwaway Details",
+    "question": "What phrase closes the Marauder's Map?",
+    "answer": "Mischief managed",
+    "acceptedAnswers": [],
+    "source": "Prisoner of Azkaban, Chapter 10 — 'The Marauder's Map'"
+  },
+  {
+    "id": 78,
+    "category": "Obscure Spells & Potions",
+    "question": "What is the incantation for the Patronus Charm?",
+    "answer": "Expecto Patronum",
+    "acceptedAnswers": [],
+    "source": "Prisoner of Azkaban, Chapter 12 — 'The Patronus'"
+  },
+  {
+    "id": 79,
+    "category": "Minor Characters",
+    "question": "What is the full name of Nearly Headless Nick?",
+    "answer": "Sir Nicholas de Mimsy-Porpington",
+    "acceptedAnswers": ["Nicholas de Mimsy-Porpington", "Mimsy-Porpington"],
+    "source": "Philosopher's Stone, Chapter 7 — introduced at the Start-of-Term Feast"
+  },
+  {
+    "id": 80,
+    "category": "Magical Objects & Creatures",
+    "question": "What was the Deluminator originally called when Dumbledore used it in Chapter 1 of Philosopher's Stone?",
+    "answer": "Put-Outer",
+    "acceptedAnswers": ["the Put-Outer", "Put Outer"],
+    "source": "Philosopher's Stone, Chapter 1 — 'The Boy Who Lived'"
+  },
+  {
+    "id": 81,
+    "category": "Minor Characters",
+    "question": "What is the name of the house-elf who serves the Black family?",
+    "answer": "Kreacher",
+    "acceptedAnswers": [],
+    "source": "Order of the Phoenix, Chapter 4 — 'Number Twelve, Grimmauld Place'"
+  },
+  {
+    "id": 82,
+    "category": "Minor Characters",
+    "question": "What was the name of Hepzibah Smith's house-elf?",
+    "answer": "Hokey",
+    "acceptedAnswers": [],
+    "source": "Half-Blood Prince, Chapter 20 — 'Lord Voldemort's Request'"
+  },
+  {
+    "id": 83,
+    "category": "Throwaway Details",
+    "question": "What is the third scent Hermione smells in the Amortentia potion, which she is too embarrassed to say aloud?",
+    "answer": "Ron's hair",
+    "acceptedAnswers": ["Ron", "Ron Weasley's hair", "Ron Weasley"],
+    "source": "Half-Blood Prince, Chapter 9 — she trails off before mentioning the third scent"
+  },
+  {
+    "id": 84,
+    "category": "Prices & Numbers",
+    "question": "How many players are on a Quidditch team?",
+    "answer": "7",
+    "acceptedAnswers": ["seven"],
+    "source": "Philosopher's Stone, Chapter 10 — 'Hallowe'en'"
+  },
+  {
+    "id": 85,
+    "category": "Magical Objects & Creatures",
+    "question": "What plant does Neville receive as a birthday gift from his Great Uncle Algie in Order of the Phoenix?",
+    "answer": "Mimbulus mimbletonia",
+    "acceptedAnswers": ["Mimbulus Mimbletonia"],
+    "source": "Order of the Phoenix, Chapter 10 — 'Luna Lovegood'"
+  },
+  {
+    "id": 86,
+    "category": "Minor Characters",
+    "question": "Who wrote Dumbledore's obituary in the Daily Prophet?",
+    "answer": "Elphias Doge",
+    "acceptedAnswers": ["Doge", "Elphias"],
+    "source": "Deathly Hallows, Chapter 2 — 'In Memoriam'"
+  },
+  {
+    "id": 87,
+    "category": "Throwaway Details",
+    "question": "Where in the Burrow does the Weasley family ghoul live?",
+    "answer": "The attic",
+    "acceptedAnswers": ["attic", "in the attic"],
+    "source": "Referenced in Chamber of Secrets and Deathly Hallows — it lives in the attic"
+  },
+  {
+    "id": 88,
+    "category": "Obscure Spells & Potions",
+    "question": "What spell does Hermione use to send conjured canaries attacking Ron?",
+    "answer": "Oppugno",
+    "acceptedAnswers": [],
+    "source": "Half-Blood Prince, Chapter 14 — 'Felix Felicis'"
+  },
+  {
+    "id": 89,
+    "category": "Throwaway Details",
+    "question": "What was the make and model of the flying car that Ron and Harry take to Hogwarts?",
+    "answer": "Ford Anglia",
+    "acceptedAnswers": ["Anglia"],
+    "source": "Chamber of Secrets, Chapter 3 — 'The Burrow'"
+  },
+  {
+    "id": 90,
+    "category": "Minor Characters",
+    "question": "What is Fleur Delacour's little sister's name?",
+    "answer": "Gabrielle",
+    "acceptedAnswers": ["Gabrielle Delacour"],
+    "source": "Goblet of Fire, Chapter 26 — 'The Second Task'"
+  },
+  {
+    "id": 91,
+    "category": "Prices & Numbers",
+    "question": "How long does it take to brew Polyjuice Potion?",
+    "answer": "One month",
+    "acceptedAnswers": ["a month", "1 month", "one month"],
+    "source": "Chamber of Secrets, Chapter 10 — 'The Rogue Bludger'"
+  },
+  {
+    "id": 92,
+    "category": "Throwaway Details",
+    "question": "What objects must be tapped in a specific rhythm to enter the Hufflepuff common room?",
+    "answer": "Barrels",
+    "acceptedAnswers": ["barrel", "a barrel", "the barrels"],
+    "source": "Referenced on Pottermore/Wizarding World — the entrance is near the kitchens"
+  },
+  {
+    "id": 93,
+    "category": "Obscure Spells & Potions",
+    "question": "What is the name of the cursed fire that Crabbe accidentally unleashes in the Room of Requirement?",
+    "answer": "Fiendfyre",
+    "acceptedAnswers": ["Fiend Fyre", "fiend fyre", "Fiendfyre curse"],
+    "source": "Deathly Hallows, Chapter 31 — 'The Battle of Hogwarts'"
+  },
+  {
+    "id": 94,
+    "category": "Minor Characters",
+    "question": "What is the name of Sirius Black's mother, whose portrait screams at visitors in Grimmauld Place?",
+    "answer": "Walburga Black",
+    "acceptedAnswers": ["Walburga"],
+    "source": "Order of the Phoenix, Chapter 4 — the screaming portrait at 12 Grimmauld Place"
+  },
+  {
+    "id": 95,
+    "category": "Throwaway Details",
+    "question": "What does Lupin's Boggart turn into?",
+    "answer": "Full moon",
+    "acceptedAnswers": ["a full moon", "the moon", "the full moon", "a silvery white orb", "moon"],
+    "source": "Prisoner of Azkaban, Chapter 7 — implied because Lupin is a werewolf"
+  },
+  {
+    "id": 96,
+    "category": "Minor Characters",
+    "question": "What is the name of the Ravenclaw house ghost?",
+    "answer": "The Grey Lady",
+    "acceptedAnswers": ["Grey Lady", "Gray Lady", "The Gray Lady"],
+    "source": "First mentioned in Philosopher's Stone, revealed as Helena Ravenclaw in Deathly Hallows"
+  },
+  {
+    "id": 97,
+    "category": "Textbooks & Authors",
+    "question": "Who wrote 'Magical Theory'?",
+    "answer": "Adalbert Waffling",
+    "acceptedAnswers": ["Waffling", "Adalbert"],
+    "source": "Philosopher's Stone, Chapter 5 — Hogwarts book list for first years"
+  },
+  {
+    "id": 98,
+    "category": "Throwaway Details",
+    "question": "What item does Harry hide inside Tom Riddle's diary to trick Lucius Malfoy into freeing Dobby?",
+    "answer": "A sock",
+    "acceptedAnswers": ["sock", "his sock", "Harry's sock", "the sock"],
+    "source": "Chamber of Secrets, Chapter 18 — 'Dobby's Reward'"
+  },
+  {
+    "id": 99,
+    "category": "Magical Objects & Creatures",
+    "question": "What is the name of the stone basin used to review and store memories?",
+    "answer": "Pensieve",
+    "acceptedAnswers": ["a Pensieve", "the Pensieve"],
+    "source": "Goblet of Fire, Chapter 30 — 'The Pensieve'"
+  },
+  {
+    "id": 100,
+    "category": "Minor Characters",
+    "question": "Who is the Hogwarts librarian?",
+    "answer": "Madam Pince",
+    "acceptedAnswers": ["Pince", "Madame Pince", "Irma Pince"],
+    "source": "Referenced throughout the series — the strict librarian of the Hogwarts library"
+  }
+]
