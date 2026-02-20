@@ -798,5 +798,405 @@
     "answer": "Madam Pince",
     "acceptedAnswers": ["Pince", "Madame Pince", "Irma Pince"],
     "source": "Referenced throughout the series — the strict librarian of the Hogwarts library"
+  },
+  {
+    "id": 101,
+    "category": "Prices & Numbers",
+    "question": "How many presents did Dudley count on his birthday before complaining they were fewer than last year?",
+    "answer": "36",
+    "acceptedAnswers": ["thirty-six", "thirty six"],
+    "source": "Philosopher's Stone, Chapter 2 — 'The Vanishing Glass'"
+  },
+  {
+    "id": 102,
+    "category": "Throwaway Details",
+    "question": "What flavor of Every Flavour Bean does Dumbledore eat at the end of Philosopher's Stone?",
+    "answer": "Earwax",
+    "acceptedAnswers": ["ear wax"],
+    "source": "Philosopher's Stone, Chapter 17 — 'Alas! Ear wax!'"
+  },
+  {
+    "id": 103,
+    "category": "Minor Characters",
+    "question": "What is the name of Aunt Marge's favorite bulldog?",
+    "answer": "Ripper",
+    "acceptedAnswers": [],
+    "source": "Prisoner of Azkaban, Chapter 2 — 'Aunt Marge's Big Mistake'"
+  },
+  {
+    "id": 104,
+    "category": "Throwaway Details",
+    "question": "What is the first Gryffindor common room password Harry learns at Hogwarts?",
+    "answer": "Caput Draconis",
+    "acceptedAnswers": [],
+    "source": "Philosopher's Stone, Chapter 7 — 'The Sorting Hat'"
+  },
+  {
+    "id": 105,
+    "category": "Prices & Numbers",
+    "question": "How long is Harry's wand, in inches?",
+    "answer": "11",
+    "acceptedAnswers": ["11 inches", "eleven", "eleven inches"],
+    "source": "Philosopher's Stone, Chapter 5 — 'Diagon Alley'"
+  },
+  {
+    "id": 106,
+    "category": "Magical Objects & Creatures",
+    "question": "What wood is Voldemort's wand made from?",
+    "answer": "Yew",
+    "acceptedAnswers": [],
+    "source": "Goblet of Fire, Chapter 18 — 'The Weighing of the Wands'"
+  },
+  {
+    "id": 107,
+    "category": "Throwaway Details",
+    "question": "What is the name of the village where the Riddle House is located?",
+    "answer": "Little Hangleton",
+    "acceptedAnswers": [],
+    "source": "Goblet of Fire, Chapter 1 — 'The Riddle House'"
+  },
+  {
+    "id": 108,
+    "category": "Throwaway Details",
+    "question": "What is the name of the orphanage where Tom Riddle grew up?",
+    "answer": "Wool's Orphanage",
+    "acceptedAnswers": ["Wools Orphanage"],
+    "source": "Half-Blood Prince, Chapter 13 — 'The Secret Riddle'"
+  },
+  {
+    "id": 109,
+    "category": "Throwaway Details",
+    "question": "What color ink is used to address Harry's first Hogwarts letter?",
+    "answer": "Emerald green",
+    "acceptedAnswers": ["green"],
+    "source": "Philosopher's Stone, Chapter 3 — 'The Letters from No One'"
+  },
+  {
+    "id": 110,
+    "category": "Minor Characters",
+    "question": "What is the name of the centaur who angrily confronts Firenze for carrying Harry through the Forbidden Forest?",
+    "answer": "Bane",
+    "acceptedAnswers": [],
+    "source": "Philosopher's Stone, Chapter 15 — 'The Forbidden Forest'"
+  },
+  {
+    "id": 111,
+    "category": "Throwaway Details",
+    "question": "What alias is Buckbeak given when living in hiding with Sirius?",
+    "answer": "Witherwings",
+    "acceptedAnswers": [],
+    "source": "Half-Blood Prince, Chapter 3 — 'Will and Won't'"
+  },
+  {
+    "id": 112,
+    "category": "Prices & Numbers",
+    "question": "How many uses of dragon's blood did Dumbledore discover?",
+    "answer": "12",
+    "acceptedAnswers": ["twelve"],
+    "source": "Philosopher's Stone, Chapter 6 — mentioned on Dumbledore's Chocolate Frog card"
+  },
+  {
+    "id": 113,
+    "category": "Throwaway Details",
+    "question": "What type of cauldron are first-year Hogwarts students required to bring?",
+    "answer": "Pewter, standard size 2",
+    "acceptedAnswers": ["pewter"],
+    "source": "Philosopher's Stone, Chapter 5 — the Hogwarts supply list"
+  },
+  {
+    "id": 114,
+    "category": "Minor Characters",
+    "question": "Who becomes Gryffindor Quidditch captain after Oliver Wood leaves Hogwarts?",
+    "answer": "Angelina Johnson",
+    "acceptedAnswers": ["Angelina"],
+    "source": "Order of the Phoenix, Chapter 12 — 'Professor Umbridge'"
+  },
+  {
+    "id": 115,
+    "category": "Obscure Spells & Potions",
+    "question": "What is the incantation of the spell used to create a Portkey?",
+    "answer": "Portus",
+    "acceptedAnswers": [],
+    "source": "Order of the Phoenix, Chapter 22 — Dumbledore creates a Portkey in the Ministry"
+  },
+  {
+    "id": 116,
+    "category": "Throwaway Details",
+    "question": "What type of dragon does Cedric Diggory face in the First Task of the Triwizard Tournament?",
+    "answer": "Swedish Short-Snout",
+    "acceptedAnswers": ["Short-Snout", "Swedish Short Snout", "Short Snout"],
+    "source": "Goblet of Fire, Chapter 20 — 'The First Task'"
+  },
+  {
+    "id": 117,
+    "category": "Throwaway Details",
+    "question": "What type of dragon does Viktor Krum face in the First Task of the Triwizard Tournament?",
+    "answer": "Chinese Fireball",
+    "acceptedAnswers": ["Fireball"],
+    "source": "Goblet of Fire, Chapter 20 — 'The First Task'"
+  },
+  {
+    "id": 118,
+    "category": "Throwaway Details",
+    "question": "What type of dragon does Fleur Delacour face in the First Task of the Triwizard Tournament?",
+    "answer": "Common Welsh Green",
+    "acceptedAnswers": ["Welsh Green"],
+    "source": "Goblet of Fire, Chapter 20 — 'The First Task'"
+  },
+  {
+    "id": 119,
+    "category": "Minor Characters",
+    "question": "Who is the Quidditch commentator at Hogwarts during Harry's first five years?",
+    "answer": "Lee Jordan",
+    "acceptedAnswers": ["Lee", "Jordan"],
+    "source": "Philosopher's Stone, Chapter 11 — 'Quidditch'"
+  },
+  {
+    "id": 120,
+    "category": "Minor Characters",
+    "question": "What is the name of the Muggle caretaker killed by Voldemort at the Riddle House at the start of Goblet of Fire?",
+    "answer": "Frank Bryce",
+    "acceptedAnswers": ["Frank", "Bryce"],
+    "source": "Goblet of Fire, Chapter 1 — 'The Riddle House'"
+  },
+  {
+    "id": 121,
+    "category": "Throwaway Details",
+    "question": "What animal form does Rita Skeeter take as an unregistered Animagus?",
+    "answer": "Beetle",
+    "acceptedAnswers": ["a beetle"],
+    "source": "Goblet of Fire, Chapter 37 — 'The Beginning'"
+  },
+  {
+    "id": 122,
+    "category": "Throwaway Details",
+    "question": "What model of broomstick does Lucius Malfoy buy for the entire Slytherin Quidditch team?",
+    "answer": "Nimbus 2001",
+    "acceptedAnswers": ["Nimbus Two Thousand and One"],
+    "source": "Chamber of Secrets, Chapter 7 — 'Mudbloods and Murmurs'"
+  },
+  {
+    "id": 123,
+    "category": "Minor Characters",
+    "question": "What is the real identity of the Death Eater disguised as Mad-Eye Moody throughout Goblet of Fire?",
+    "answer": "Barty Crouch Jr",
+    "acceptedAnswers": ["Barty Crouch Junior", "Bartemius Crouch Jr", "Bartemius Crouch Junior", "Barty Crouch"],
+    "source": "Goblet of Fire, Chapter 35 — 'Veritaserum'"
+  },
+  {
+    "id": 124,
+    "category": "Throwaway Details",
+    "question": "What is the full address of the headquarters of the Order of the Phoenix?",
+    "answer": "12 Grimmauld Place",
+    "acceptedAnswers": ["Number 12 Grimmauld Place", "Twelve Grimmauld Place"],
+    "source": "Order of the Phoenix, Chapter 3 — 'The Advance Guard'"
+  },
+  {
+    "id": 125,
+    "category": "Obscure Spells & Potions",
+    "question": "What is the name of the potion that grants the drinker extraordinary luck?",
+    "answer": "Felix Felicis",
+    "acceptedAnswers": ["Liquid Luck"],
+    "source": "Half-Blood Prince, Chapter 9 — 'The Half-Blood Prince'"
+  },
+  {
+    "id": 126,
+    "category": "Throwaway Details",
+    "question": "What does Uncle Vernon's company, Grunnings, manufacture?",
+    "answer": "Drills",
+    "acceptedAnswers": [],
+    "source": "Philosopher's Stone, Chapter 1 — 'The Boy Who Lived'"
+  },
+  {
+    "id": 127,
+    "category": "Throwaway Details",
+    "question": "What did Harry receive from the Dursleys for Christmas during his first year at Hogwarts?",
+    "answer": "A fifty-pence piece",
+    "acceptedAnswers": ["fifty pence", "50p", "50 pence", "a fifty pence piece", "fifty pence piece"],
+    "source": "Philosopher's Stone, Chapter 12 — 'The Mirror of Erised'"
+  },
+  {
+    "id": 128,
+    "category": "Throwaway Details",
+    "question": "What is the name of the underground resistance radio program that broadcasts during the Second Wizarding War?",
+    "answer": "Potterwatch",
+    "acceptedAnswers": ["Potter Watch"],
+    "source": "Deathly Hallows, Chapter 22 — 'The Deathly Hallows'"
+  },
+  {
+    "id": 129,
+    "category": "Throwaway Details",
+    "question": "What does Mrs. Weasley knit for her children and Harry every Christmas?",
+    "answer": "Jumpers",
+    "acceptedAnswers": ["sweaters", "a jumper", "a sweater", "Weasley sweater", "Weasley jumper", "sweater", "jumper"],
+    "source": "Philosopher's Stone, Chapter 12 — 'The Mirror of Erised'"
+  },
+  {
+    "id": 130,
+    "category": "Minor Characters",
+    "question": "What is the name of the Hogwarts gamekeeper who served before Hagrid?",
+    "answer": "Ogg",
+    "acceptedAnswers": [],
+    "source": "Goblet of Fire, Chapter 31 — mentioned by Dumbledore in a Pensieve memory"
+  },
+  {
+    "id": 131,
+    "category": "Minor Characters",
+    "question": "What is Tonks's first name, which she hates being called?",
+    "answer": "Nymphadora",
+    "acceptedAnswers": [],
+    "source": "Order of the Phoenix, Chapter 3 — 'The Advance Guard'"
+  },
+  {
+    "id": 132,
+    "category": "Throwaway Details",
+    "question": "What is the password to the Hogwarts prefects' bathroom?",
+    "answer": "Pine fresh",
+    "acceptedAnswers": ["pine fresh"],
+    "source": "Goblet of Fire, Chapter 25 — 'The Egg and the Eye'"
+  },
+  {
+    "id": 133,
+    "category": "Minor Characters",
+    "question": "What is Sirius Black's Marauder nickname?",
+    "answer": "Padfoot",
+    "acceptedAnswers": [],
+    "source": "Prisoner of Azkaban, Chapter 18 — 'Moony, Wormtail, Padfoot and Prongs'"
+  },
+  {
+    "id": 134,
+    "category": "Minor Characters",
+    "question": "What is James Potter's Marauder nickname?",
+    "answer": "Prongs",
+    "acceptedAnswers": [],
+    "source": "Prisoner of Azkaban, Chapter 18 — 'Moony, Wormtail, Padfoot and Prongs'"
+  },
+  {
+    "id": 135,
+    "category": "Minor Characters",
+    "question": "What is Peter Pettigrew's Marauder nickname?",
+    "answer": "Wormtail",
+    "acceptedAnswers": [],
+    "source": "Prisoner of Azkaban, Chapter 18 — 'Moony, Wormtail, Padfoot and Prongs'"
+  },
+  {
+    "id": 136,
+    "category": "Throwaway Details",
+    "question": "What is the name of the street where Snape's childhood home is located?",
+    "answer": "Spinner's End",
+    "acceptedAnswers": ["Spinners End"],
+    "source": "Half-Blood Prince, Chapter 2 — 'Spinner's End'"
+  },
+  {
+    "id": 137,
+    "category": "Minor Characters",
+    "question": "What is the name of Voldemort's maternal uncle?",
+    "answer": "Morfin Gaunt",
+    "acceptedAnswers": ["Morfin"],
+    "source": "Half-Blood Prince, Chapter 10 — 'The House of Gaunt'"
+  },
+  {
+    "id": 138,
+    "category": "Minor Characters",
+    "question": "What is the name of the Hufflepuff house ghost?",
+    "answer": "The Fat Friar",
+    "acceptedAnswers": ["Fat Friar"],
+    "source": "Philosopher's Stone, Chapter 7 — 'The Sorting Hat'"
+  },
+  {
+    "id": 139,
+    "category": "Magical Objects & Creatures",
+    "question": "What plant does Harry eat to breathe underwater during the Second Task of the Triwizard Tournament?",
+    "answer": "Gillyweed",
+    "acceptedAnswers": [],
+    "source": "Goblet of Fire, Chapter 26 — 'The Second Task'"
+  },
+  {
+    "id": 140,
+    "category": "Minor Characters",
+    "question": "What is the name of the landlady who runs the Three Broomsticks pub in Hogsmeade?",
+    "answer": "Madam Rosmerta",
+    "acceptedAnswers": ["Rosmerta"],
+    "source": "Prisoner of Azkaban, Chapter 10 — 'The Marauder's Map'"
+  },
+  {
+    "id": 141,
+    "category": "Minor Characters",
+    "question": "What is the name of the witch who teaches flying lessons and referees Quidditch at Hogwarts?",
+    "answer": "Madam Hooch",
+    "acceptedAnswers": ["Hooch", "Rolanda Hooch"],
+    "source": "Philosopher's Stone, Chapter 9 — 'The Midnight Duel'"
+  },
+  {
+    "id": 142,
+    "category": "Throwaway Details",
+    "question": "What did Dumbledore leave Harry in his will?",
+    "answer": "The first Golden Snitch he ever caught",
+    "acceptedAnswers": ["the golden snitch", "golden snitch", "the snitch", "a golden snitch", "first snitch", "his first snitch", "the first snitch he caught"],
+    "source": "Deathly Hallows, Chapter 7 — 'The Will of Albus Dumbledore'"
+  },
+  {
+    "id": 143,
+    "category": "Prices & Numbers",
+    "question": "In what year did Nearly Headless Nick die?",
+    "answer": "1492",
+    "acceptedAnswers": [],
+    "source": "Chamber of Secrets, Chapter 8 — 'The Deathday Party' (his 500th deathday is in 1992)"
+  },
+  {
+    "id": 144,
+    "category": "Minor Characters",
+    "question": "What is the name of the tiny owl Ron receives as a replacement after losing Scabbers?",
+    "answer": "Pigwidgeon",
+    "acceptedAnswers": ["Pig"],
+    "source": "Prisoner of Azkaban — given to Ron by Sirius Black"
+  },
+  {
+    "id": 145,
+    "category": "Throwaway Details",
+    "question": "What subject does the ghost Professor Binns teach at Hogwarts?",
+    "answer": "History of Magic",
+    "acceptedAnswers": ["history"],
+    "source": "Philosopher's Stone — Binns is the only ghost teacher at Hogwarts"
+  },
+  {
+    "id": 146,
+    "category": "Obscure Spells & Potions",
+    "question": "What is the incantation for the charm that produces a jet of water from the wand tip?",
+    "answer": "Aguamenti",
+    "acceptedAnswers": [],
+    "source": "Half-Blood Prince, Chapter 26 — 'The Cave'"
+  },
+  {
+    "id": 147,
+    "category": "Prices & Numbers",
+    "question": "How many points is catching the Golden Snitch worth in Quidditch?",
+    "answer": "150",
+    "acceptedAnswers": ["150 points", "one hundred and fifty"],
+    "source": "Philosopher's Stone, Chapter 10 — 'Hallowe'en'"
+  },
+  {
+    "id": 148,
+    "category": "Throwaway Details",
+    "question": "What is the title of Rita Skeeter's scandalous biography of Dumbledore?",
+    "answer": "The Life and Lies of Albus Dumbledore",
+    "acceptedAnswers": ["Life and Lies of Albus Dumbledore", "The Life and Lies of Dumbledore"],
+    "source": "Deathly Hallows, Chapter 2 — 'In Memoriam'"
+  },
+  {
+    "id": 149,
+    "category": "Throwaway Details",
+    "question": "What four nonsensical words does Dumbledore say before the start-of-term feast in Harry's first year?",
+    "answer": "Nitwit, Blubber, Oddment, Tweak",
+    "acceptedAnswers": ["nitwit blubber oddment tweak"],
+    "source": "Philosopher's Stone, Chapter 7 — 'The Sorting Hat'"
+  },
+  {
+    "id": 150,
+    "category": "Minor Characters",
+    "question": "What is the name of Dumbledore's sister who died as a young girl?",
+    "answer": "Ariana Dumbledore",
+    "acceptedAnswers": ["Ariana"],
+    "source": "Deathly Hallows, Chapter 28 — 'The Missing Mirror'"
   }
 ]

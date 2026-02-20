@@ -46,6 +46,10 @@ function normalize(str) {
   return str.toLowerCase().trim().replace(/['']/g, "'").replace(/[^a-z0-9' ]/g, '').replace(/\s+/g, ' ')
 }
 
+function extractNumbers(str) {
+  return str.match(/\d+/g) || []
+}
+
 function fuzzyMatch(input, target) {
   const a = normalize(input)
   const b = normalize(target)
@@ -53,6 +57,18 @@ function fuzzyMatch(input, target) {
 
   // Exact match after normalization
   if (a === b) return true
+
+  // Strict number matching: if both strings contain numbers,
+  // the numbers must be identical (prevents "3 galleons" matching
+  // "7 galleons" and "7" matching "700")
+  const inputNums = extractNumbers(a)
+  const targetNums = extractNumbers(b)
+  if (inputNums.length > 0 && targetNums.length > 0) {
+    if (inputNums.length !== targetNums.length ||
+        !inputNums.every((n, i) => n === targetNums[i])) {
+      return false
+    }
+  }
 
   // Containment: input contains the target or vice versa
   if (a.includes(b) || b.includes(a)) return true
